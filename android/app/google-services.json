@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193160156434",
+    "firebase_url": "https://developerbackend-edubox.firebaseio.com",
+    "project_id": "developerbackend-edubox",
+    "storage_bucket": "developerbackend-edubox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193160156434:android:b1cf25ec40026799",
+        "android_client_info": {
+          "package_name": "com.example.appgeodetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193160156434-f83r65jlqmv4h4qru8td4cejk3ug2bcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appgeodetect",
+            "certificate_hash": "3bf64924fe7fb064fcbd971164b6e4bd63b7c7fb"
+          }
+        },
+        {
+          "client_id": "193160156434-9gk0v9av3ac5lmadbtaa1lme277ore4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G-KZ4v3G72vQ44w94ayf8LgUVodDK8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193160156434-9gk0v9av3ac5lmadbtaa1lme277ore4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
